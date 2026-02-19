@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Rubén Cordero",
+    "commit": {
+      "date": "2026-02-19T14:25:59.000Z",
+      "message": "jest implementado",
+      "url": "https://github.com/Ruben-Cordero/tests/commit/HEAD"
+    },
+    "stats": {
+      "total": 36,
+      "additions": 33,
+      "deletions": 3,
+      "date": "2026-02-19"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "numPassedTests": 0,
+    "failedTests": 3,
+    "numTotalTests": 3,
+    "timestamp": 1771510314652,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1771510419935,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "jest implementado",
+    "commitTimestamp": 1771511162021,
+    "testId": 0
+  }
+]
